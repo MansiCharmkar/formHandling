@@ -1,4 +1,4 @@
-import FormHandling from "./FormHandling";
+import FormHandling from "./components/FormHandling";
 
 function App() {
   return (
