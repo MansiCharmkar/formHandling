@@ -1,10 +1,15 @@
 .formStyle {
-  height: 40vh;
+  height: 45vh;
   width: 30%;
   background-color: rgb(188, 188, 241);
   /* display: flex; */
   align-items: center;
   justify-content: center;
+}
+
+h3 {
+  padding: 0.5rem;
+  text-align: center;
 }
 
 .input {
@@ -19,8 +24,8 @@
   padding: 0.3rem;
   border: none;
   border-radius: 0.5rem;
-  margin: 1rem;
   background-color: #fff;
+  margin-left: 0.5rem;
 }
 
 .button:hover {
