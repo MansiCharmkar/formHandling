@@ -20,7 +20,7 @@ function FormHandling() {
     <div>
       <form onSubmit={submitHandler} className={styles.formStyle}>
         <div>
-          <h3>Form Handling</h3>
+          <h3 className={styles.h3}>Form Handling</h3>
           <div className={styles.input}>
             Name :{" "}
             <input
